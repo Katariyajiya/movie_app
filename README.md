@@ -1,6 +1,6 @@
-Movie_app \n
+Movie_app 
 
-It is a  Movie App which is made through flutter framework \n
+It is a  Movie App which is made through flutter framework 
 
 features: 
          |-----animated scrolling to view movie details
